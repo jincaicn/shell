@@ -1,0 +1,6 @@
+framework module Pods_Shell__ {
+  umbrella header "Pods-Shell打包-umbrella.h"
+
+  export *
+  module * { export * }
+}
